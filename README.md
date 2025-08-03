@@ -65,7 +65,7 @@ FiB is designed for:
 ## **📸 Screenshots**
 
 ### 💬 Project ID and Description
-![Project Overview](../Project_ScreenShots/project_id and_desc.png)
+![Project Overview](../project_id_and_desc.png)
 
 ### 💬 Associating Service
 ![Associate Service](../Project_ScreenShots/associated_service.png)

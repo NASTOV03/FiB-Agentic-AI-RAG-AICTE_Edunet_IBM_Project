@@ -65,14 +65,13 @@ FiB is designed for:
 ## **📸 Screenshots**
 
 ### 💬 Project ID and Description
-![Project Overview](<img width="1904" height="869" alt="Image" src="https://github.com/user-attachments/assets/1eae61bc-876c-4fc8-9832-d4e97f63cc6d" />)
-
+<img width="1904" height="869" alt="Image" src="https://github.com/user-attachments/assets/1eae61bc-876c-4fc8-9832-d4e97f63cc6d" />
 
 ### 💬 Associating Service
-![Associate Service](../associated_service.png)
+<img width="1572" height="489" alt="Image" src="https://github.com/user-attachments/assets/9cf065d1-29b5-46bb-a25c-2c17b198de2e" />
 
 ### 💬 Building AI Assistant
-![Configuration](Project_ScreenShots/Config_Up_AI_Agent.png)
+<img width="1920" height="858" alt="Image" src="https://github.com/user-attachments/assets/600048c1-7137-41a8-be78-9ff93be725da" />
 
 ![Setup AI Agent](Project_ScreenShots/set_up_ai_agent.png)
 

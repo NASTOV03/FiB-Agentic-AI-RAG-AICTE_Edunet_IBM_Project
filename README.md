@@ -65,7 +65,8 @@ FiB is designed for:
 ## **📸 Screenshots**
 
 ### 💬 Project ID and Description
-![Project Overview]<img width="1904" height="869" alt="Image" src="https://github.com/user-attachments/assets/1eae61bc-876c-4fc8-9832-d4e97f63cc6d" />
+![Project Overview]()
+<img width="1904" height="869" alt="Image" src="https://github.com/user-attachments/assets/1eae61bc-876c-4fc8-9832-d4e97f63cc6d" />
 
 ### 💬 Associating Service
 ![Associate Service](../associated_service.png)

@@ -65,10 +65,10 @@ FiB is designed for:
 ## **📸 Screenshots**
 
 ### 💬 Project ID and Description
-![Project Overview](../project_id_and_desc.png)
+![Project Overview](../project-id-and-desc.png)
 
 ### 💬 Associating Service
-![Associate Service](../Project_ScreenShots/associated_service.png)
+![Associate Service](../associated_service.png)
 
 ### 💬 Building AI Assistant
 ![Configuration](Project_ScreenShots/Config_Up_AI_Agent.png)

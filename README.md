@@ -29,7 +29,7 @@ FiB is designed for:
   - `#habit_building`
 
 ### **📘 Knowledge Grounding with Vectorized PDF**
-- Integrated **2MB fitness knowledge base**
+- Integrated **fitness knowledge base**
 - Grounded with **IBM Granite** for enhanced conversational intelligence
 
 ### **📊 Uses IBM Jupyter Notebooks**

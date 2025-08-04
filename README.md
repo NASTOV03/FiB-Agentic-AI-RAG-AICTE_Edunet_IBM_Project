@@ -142,9 +142,13 @@ FiB is designed for:
 
 ## **📦 Project Structure**
 ├── Project ScreenShots/ # Screenshots for README
+|
 ├── FiB Knowledge Base.pdf # Vectorized knowledge document
+|
 ├── FiB.ipynb/ # logic
+|
 ├── Project PPT.ppt/ 
+|
 ├── README.md # This file
 
 ---

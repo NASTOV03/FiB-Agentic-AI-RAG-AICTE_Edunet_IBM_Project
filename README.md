@@ -5,7 +5,7 @@
 # **SMART AI FITNESS COACH FOR DAILY WELLNESS**
 
 ## **📌 Overview**
-This project is an AI-based **Fitness Assistant** designed to help individuals stay consistent with healthy routines. It uses **Watson Assistant**, **Granite LLM**, and IBM **Vector Knowledge Grounding** to provide a full AI stack experience on the cloud without requiring complex backend systems.
+This project is an AI-based **Fitness Assistant** designed to help individuals stay consistent with healthy routines. It uses **Natural Language Processing (NPL)**, **Granite LLM**, **Retrival Augmented Generation** and IBM **Vector Knowledge Grounding** to provide a full AI stack experience on the cloud without requiring complex backend systems.
 
 FiB is designed for:
 - People with limited time or access to gyms
@@ -39,15 +39,15 @@ FiB is designed for:
 
 ## **📄 How It Works**
 
-1️⃣ **User interacts with FiB via Watson Assistant**  
+1️⃣ **User interacts with FiB via AI Assistant**  
 2️⃣ **Asks a question**, like:
 - "Give me a 15-minute workout"
 - "What’s a good breakfast after a run?"
 - "Motivate me to stay active"
 
-3️⃣ **Watson Assistant responds**, grounded in vectorized PDF knowledge using IBM Granite
+3️⃣ **AI Assistant responds**, grounded in vectorized PDF knowledge using IBM Granite
 
-4️⃣ **User receives customized suggestions** or motivational responses
+4️⃣ **User receives customized suggestions** or **motivational responses**
 
 ---
 
@@ -55,7 +55,7 @@ FiB is designed for:
 
 | Layer             | Technology                      |
 |-------------------|---------------------------------|
-| AI Chat           | IBM Watson Assistant            |
+| AI Chat           | IBM Agentic AI Assistant        |
 | Vector Knowledge  | PDF embedded via vector index   |
 | Model             | IBM Granite (Watsonx.ai)        |
 | Backend Logic     | IBM Jupyter Notebook            |
@@ -73,33 +73,33 @@ FiB is designed for:
 ### 💬 Building AI Assistant
 <img width="1920" height="858" alt="Image" src="https://github.com/user-attachments/assets/600048c1-7137-41a8-be78-9ff93be725da" />
 
-Setup AI Agent
+**Setup AI Agent**
 <img width="1920" height="867" alt="Image" src="https://github.com/user-attachments/assets/57c60a58-7417-4eef-b8a1-2497fc47e6fa" />
 
-Agent Instructions
+**Agent Instructions**
 <img width="1746" height="650" alt="Image" src="https://github.com/user-attachments/assets/d457e022-796f-4347-bc28-6040b98b33bc" />
 
-Common Instructions
+**Common Instructions**
 <img width="1729" height="651" alt="Image" src="https://github.com/user-attachments/assets/5193177b-6fb3-4ed2-b441-c8bb83507922" />
 
-Vector Knowledge
+**Vector Knowledge**
 <img width="1388" height="776" alt="Image" src="https://github.com/user-attachments/assets/881d1a2f-a0a7-40a8-8fab-206bc5f2ff12" />
 
-Tools
+**Tools**
 <img width="1782" height="537" alt="Image" src="https://github.com/user-attachments/assets/64fd033b-6cb5-421f-85b8-bf17f67f237f" />
 <img width="895" height="648" alt="Image" src="https://github.com/user-attachments/assets/e0adaa85-dee6-4657-b6a8-5ea2cbed9752" />
 
 
-Preview Before Upload
+**Preview Before Upload**
 <img width="915" height="776" alt="Image" src="https://github.com/user-attachments/assets/71cb8a24-e2eb-4adc-8cca-4fb22bae8e56" />
 <img width="906" height="765" alt="Image" src="https://github.com/user-attachments/assets/ac43ea92-7551-4f0d-8fa0-e3cf39e78c7d" />
 
 ### 💬 Saving The AI Agent
 
-Saving the AI Agent
+**Saving the AI Agent**
 <img width="1786" height="775" alt="Image" src="https://github.com/user-attachments/assets/542e8a96-d6fb-461a-b255-a914e4e0cd43" />
 
-Saving the AI Agent Code
+**Saving the AI Agent Code**
 <img width="1781" height="776" alt="Image" src="https://github.com/user-attachments/assets/fe594f1f-fff5-4966-ae49-d9ce332590a1" />
 
 ### 📄 Creating Deployment Space
@@ -121,13 +121,14 @@ Saving the AI Agent Code
 
 ### 💻 Agent Preview After Deployment
 <img width="1911" height="796" alt="Image" src="https://github.com/user-attachments/assets/baff0a4f-acab-48f6-9241-c70f98b0bad5" />
+
 ---
 
 ## **🛠️ Setup Instructions**
 
 ### 🔴 Requirements
 - IBM Cloud Account (Lite plan)
-- IBM Watson Agenstic Lab
+- IBM Watson Agentic Lab
 - Watsonx or IBM Granite model access
 - Jupyter Notebook via Watson Studio
   

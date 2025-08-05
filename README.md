@@ -141,11 +141,18 @@ FiB is designed for:
 ---
 
 ## **📦 Project Structure**
-├── Project ScreenShots
-├── FiB Knowledge Base.pdf # Vectorized knowledge document
-├── FiB.ipynb/ # logic
-├── Project PPT.ppt/ 
-├── README.md # This file
+```
+📦 Root Directory
+├── Certificates/
+├── Project ScreenShots/
+├── FiB Knowledge Base.pdf         # Vectorized knowledge document
+├── FiB.ipynb                      # Logic
+├── LICENSE
+├── Problem Statement.pdf
+├── README.md                      # This file
+├── Project PPT.pdf
+├── Project PPT.ppt
+```
 
 ---
 

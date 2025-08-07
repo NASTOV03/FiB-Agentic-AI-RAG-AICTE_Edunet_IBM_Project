@@ -152,7 +152,6 @@ FiB is designed for:
 ├── README.md                      # This file
 ├── Project PPT.pdf
 ├── Project PPT.ppt
-```
 
 ---
 
